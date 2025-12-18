@@ -1,67 +1,44 @@
 ---
 layout: default
 site_name: The Cookie Press Pro
-site_tagline: Perfect Cookies, Every Time.
-niche: Baking Supplies
+site_tagline: Bake perfect spritz cookies every time.
+niche: Baking & Cooking
 title: Contact
 permalink: /contact/
 description: 
 sitemap: {"priority": 0.6, "changefreq": "monthly"}
 ---
 
-```markdown
-## Contact
+# Contact
 
-We're here to help you bake perfect cookies, every time! Whether you have a question about our cookie presses, need baking tips, or just want to share your cookie creations, we'd love to hear from you.
+We'd love to hear from you! Whether you have a question about The Cookie Press Pro, need some spritz cookie inspiration, or just want to share your baking success stories, we're here to help. We believe baking should be fun and accessible to everyone, and we're committed to providing you with the resources and support you need to create perfect spritz cookies every time.
 
-**Got a Question?**
+**Got a question? Check out our FAQs!**
 
-Before reaching out, you might find the answer you're looking for in our [Frequently Asked Questions (FAQ)](link-to-faq-page). We've compiled answers to common questions about our products, shipping, and baking techniques.
+Before reaching out, you might find the answer to your question in our [Frequently Asked Questions]([链接到FAQ页面]) section. We've compiled a list of common questions about The Cookie Press Pro, spritz cookie recipes, baking tips, and more.
 
-**How to Reach Us**
+**Still need help? Here's how to reach us:**
 
-We offer several ways to get in touch:
+*   **Email:** Send us an email at [support@thecookiepresspro.com](mailto:support@thecookiepresspro.com). We aim to respond to all inquiries within 24-48 hours.
 
-*   **Email:** Send us an email at [support@thecookiepresspro.com](mailto:support@thecookiepresspro.com). We aim to respond to all inquiries within 24-48 hours during business days (Monday-Friday, 9am-5pm EST).
+*   **Social Media:** Connect with us on social media! We're active on [Facebook]([链接到Facebook页面]) and [Instagram]([链接到Instagram页面]). Feel free to send us a message or tag us in your spritz cookie creations! We love seeing what you're baking.
 
-*   **Contact Form:** Fill out the form below, and we'll get back to you as soon as possible. Please provide as much detail as possible so we can best assist you.
+*   **Mailing Address:**
 
-    ```html
-    <!-- Replace with your actual contact form code -->
-    <form>
-        <label for="name">Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
+    The Cookie Press Pro
 
-        <label for="email">Email:</label><br>
-        <input type="email" id="email" name="email"><br><br>
+    [你的公司地址]
 
-        <label for="subject">Subject:</label><br>
-        <input type="text" id="subject" name="subject"><br><br>
+    [你的城市, 州, 邮编]
 
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="5" cols="50"></textarea><br><br>
+**We're here to help you bake the perfect spritz cookies!**
 
-        <input type="submit" value="Submit">
-    </form>
-    ```
+Whether you're a seasoned baker or just starting out, we're dedicated to making your baking experience enjoyable and successful. Don't hesitate to reach out if you have any questions, suggestions, or feedback. We're always looking for ways to improve and provide you with the best possible resources.
 
-    *(Remember to replace the HTML form code above with your actual contact form implementation. This is just a placeholder.)*
+**Share Your Baking Successes!**
 
-*   **Social Media:** Follow us and send us a message on our social media channels:
+We absolutely *love* seeing your spritz cookie creations! Please share your photos and stories with us on social media or via email. We might even feature your creations on our website or social media channels.
 
-    *   [Facebook](link-to-facebook-page)
-    *   [Instagram](link-to-instagram-page)
-    *   [Pinterest](link-to-pinterest-page)
+Happy Baking!
 
-**We Love Seeing Your Creations!**
-
-Share your beautiful cookie creations with us on social media using the hashtag #CookiePressPro. We can't wait to see what you're baking!
-
-**Business Inquiries**
-
-For wholesale inquiries, partnerships, or press inquiries, please email us at [business@thecookiepresspro.com](mailto:business@thecookiepresspro.com).
-
-**Our Commitment**
-
-At The Cookie Press Pro, we're dedicated to providing excellent customer service and helping you achieve baking success. We value your feedback and are always striving to improve.  Don't hesitate to reach out with any questions or concerns – we're here to help you create perfect cookies, every time!
-```
+The Cookie Press Pro Team

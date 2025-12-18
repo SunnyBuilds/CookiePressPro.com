@@ -1,8 +1,8 @@
 ---
 layout: default
 site_name: The Cookie Press Pro
-site_tagline: Perfect Cookies, Every Time.
-niche: Baking Supplies
+site_tagline: Bake perfect spritz cookies every time.
+niche: Baking & Cooking
 title: Disclaimer
 permalink: /disclaimer/
 description: 
@@ -10,45 +10,41 @@ sitemap: {"priority": 0.3, "changefreq": "yearly"}
 ---
 
 ```markdown
-## Disclaimer
+# Disclaimer
 
-Welcome to The Cookie Press Pro! We're thrilled you're here and excited to help you create perfect cookies, every time! Before you dive into the wonderful world of cookie making, please take a moment to read this disclaimer.
+Welcome to The Cookie Press Pro! We're thrilled you're here to explore the wonderful world of spritz cookies and baking. We strive to provide you with helpful and inspiring content to make your baking experience enjoyable and successful.
 
-**Accuracy and Information:**
+**Important Information:**
 
-At The Cookie Press Pro, we strive to provide accurate and up-to-date information on baking supplies, cookie presses, recipes, and baking techniques. Our content is based on our research, experience, and passion for baking. However, baking, like any craft, involves variables. Results can vary depending on factors such as ingredient quality, oven calibration, altitude, and even humidity.
+The information provided on The Cookie Press Pro website is for general informational and educational purposes only. While we aim to provide accurate and up-to-date information, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
-Therefore, while we are confident in the information we provide, we cannot guarantee specific results. Always exercise your best judgment and baking intuition! We encourage you to experiment and adapt recipes to your own preferences and equipment.
+**Baking Safety:**
 
-**Product Recommendations and Reviews:**
+Baking involves working with heat, sharp objects, and potentially allergenic ingredients. Please exercise caution and common sense when following our recipes and instructions. Always supervise children in the kitchen and ensure they understand basic safety precautions. We are not responsible for any injuries or damages resulting from your use of our recipes or techniques.
 
-We may occasionally recommend or review specific baking supplies, including cookie presses. These recommendations are based on our own testing, research, and user feedback. We always aim to provide honest and unbiased opinions. However, your experience with a particular product may differ.
+**Recipe Variations and Results:**
 
-We may participate in affiliate marketing programs, which means we may earn a commission when you purchase products through links on our site. This helps us maintain The Cookie Press Pro and continue providing valuable content. Please be assured that our editorial content is not influenced by these affiliate relationships. We only recommend products that we genuinely believe are beneficial to our audience.
+Baking is a science, but it's also an art! Results can vary depending on your ingredients, equipment, and baking environment. We provide detailed recipes and instructions, but we cannot guarantee identical results. Feel free to experiment and adjust recipes to your preferences, but always prioritize safety.
 
-**Safety and Allergies:**
+**Affiliate Links:**
 
-Baking involves working with heat, sharp objects, and potentially allergenic ingredients. Always follow safe baking practices, including using oven mitts, handling hot equipment carefully, and being aware of potential allergens.
-
-We strongly advise you to carefully read all ingredient labels and be mindful of any allergies or dietary restrictions you or your recipients may have. The Cookie Press Pro is not responsible for any allergic reactions or adverse health effects resulting from the use of our recipes or recommended products.
+In order to support The Cookie Press Pro and continue providing you with valuable content, we may participate in affiliate marketing programs. This means that we may earn a commission when you purchase products through links on our website. We only recommend products that we genuinely believe in and that we think would be beneficial to our audience. However, we are not responsible for the quality or performance of these products. Please do your own research before making any purchase.
 
 **External Links:**
 
-Our website may contain links to external websites that are not under our control. We are not responsible for the content or privacy practices of these websites. We provide these links for your convenience and information, but the inclusion of a link does not imply endorsement.
+Our website may contain links to other websites that are not under our control. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
-**Liability:**
+**Medical and Dietary Advice:**
 
-The Cookie Press Pro provides information for educational and informational purposes only. We are not liable for any damages or losses resulting from the use of our website or the information provided herein.
+The information provided on The Cookie Press Pro website is not intended to be a substitute for professional medical or dietary advice. If you have any dietary restrictions or allergies, please consult with a qualified healthcare professional before trying any of our recipes. We are not responsible for any allergic reactions or health problems resulting from your consumption of our recipes.
+
+**Copyright:**
+
+All content on The Cookie Press Pro website, including text, images, and videos, is protected by copyright. You may not reproduce, distribute, or modify our content without our express written permission.
 
 **Changes to this Disclaimer:**
 
-We reserve the right to modify this disclaimer at any time without notice. Please check this page periodically for updates.
+We reserve the right to modify this disclaimer at any time. We will post any changes on this page, so please check back periodically.
 
-**Contact Us:**
-
-If you have any questions or concerns about this disclaimer, please don't hesitate to contact us. We're always happy to help!
-
-Happy Baking!
-
-The Cookie Press Pro Team
+By using The Cookie Press Pro website, you agree to the terms of this disclaimer. Happy baking!
 ```
