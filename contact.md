@@ -2,62 +2,66 @@
 layout: default
 site_name: The Cookie Press Pro
 site_tagline: Perfect Cookies, Every Time.
-niche: Baking & Cooking
+niche: Baking Supplies
 title: Contact
 permalink: /contact/
 description: 
 sitemap: {"priority": 0.6, "changefreq": "monthly"}
 ---
 
-# Contact
+```markdown
+## Contact
 
-We'd love to hear from you! Whether you have a question about our products, need some baking advice, or just want to share your latest cookie creations, we're here to help. At The Cookie Press Pro, we're passionate about baking and dedicated to helping you achieve perfect cookies, every time!
+We're here to help you bake perfect cookies, every time! Whether you have a question about our cookie presses, need baking tips, or just want to share your cookie creations, we'd love to hear from you.
 
-**How to Reach Us:**
+**Got a Question?**
 
-Choose the method that works best for you:
+Before reaching out, you might find the answer you're looking for in our [Frequently Asked Questions (FAQ)](link-to-faq-page). We've compiled answers to common questions about our products, shipping, and baking techniques.
 
-*   **Email:** For general inquiries, product support, or order assistance, please email us at [support@thecookiepresspro.com](mailto:support@thecookiepresspro.com). We aim to respond to all emails within 24-48 hours.
+**How to Reach Us**
 
-*   **Phone:** Give us a call at [Your Phone Number Here]. Our friendly team is available Monday through Friday, from 9:00 AM to 5:00 PM [Your Time Zone].
+We offer several ways to get in touch:
 
-*   **Social Media:** Connect with us on social media! We love seeing your baking masterpieces and sharing tips and tricks. Find us on:
+*   **Email:** Send us an email at [support@thecookiepresspro.com](mailto:support@thecookiepresspro.com). We aim to respond to all inquiries within 24-48 hours during business days (Monday-Friday, 9am-5pm EST).
 
-    *   [Facebook](Your Facebook Link Here)
-    *   [Instagram](Your Instagram Link Here)
-    *   [Pinterest](Your Pinterest Link Here)
+*   **Contact Form:** Fill out the form below, and we'll get back to you as soon as possible. Please provide as much detail as possible so we can best assist you.
 
-*   **Contact Form:** For your convenience, you can also use the contact form below. Please provide as much detail as possible so we can assist you effectively.
+    ```html
+    <!-- Replace with your actual contact form code -->
+    <form>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br><br>
 
-**Contact Form:**
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
 
-```html
-<!-- Remember to replace this with your actual contact form code or use a form builder -->
-<form>
-  <label for="name">Your Name:</label><br>
-  <input type="text" id="name" name="name" required><br><br>
+        <label for="subject">Subject:</label><br>
+        <input type="text" id="subject" name="subject"><br><br>
 
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="email" required><br><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="5" cols="50"></textarea><br><br>
 
-  <label for="subject">Subject:</label><br>
-  <input type="text" id="subject" name="subject"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    ```
 
-  <label for="message">Your Message:</label><br>
-  <textarea id="message" name="message" rows="5" required></textarea><br><br>
+    *(Remember to replace the HTML form code above with your actual contact form implementation. This is just a placeholder.)*
 
-  <input type="submit" value="Submit">
-</form>
+*   **Social Media:** Follow us and send us a message on our social media channels:
+
+    *   [Facebook](link-to-facebook-page)
+    *   [Instagram](link-to-instagram-page)
+    *   [Pinterest](link-to-pinterest-page)
+
+**We Love Seeing Your Creations!**
+
+Share your beautiful cookie creations with us on social media using the hashtag #CookiePressPro. We can't wait to see what you're baking!
+
+**Business Inquiries**
+
+For wholesale inquiries, partnerships, or press inquiries, please email us at [business@thecookiepresspro.com](mailto:business@thecookiepresspro.com).
+
+**Our Commitment**
+
+At The Cookie Press Pro, we're dedicated to providing excellent customer service and helping you achieve baking success. We value your feedback and are always striving to improve.  Don't hesitate to reach out with any questions or concerns – we're here to help you create perfect cookies, every time!
 ```
-
-**Frequently Asked Questions (FAQ):**
-
-Before reaching out, you might find the answer to your question in our [FAQ section](Link to your FAQ page, if any). We've compiled a list of common questions about our products, shipping, returns, and more.
-
-**Wholesale Inquiries:**
-
-Are you interested in carrying The Cookie Press Pro products in your store? We welcome wholesale inquiries! Please email us at [wholesale@thecookiepresspro.com](mailto:wholesale@thecookiepresspro.com) with details about your business.
-
-**We're Here to Help You Bake the Best!**
-
-We're committed to providing excellent customer service and helping you create delicious cookies and treats. Don't hesitate to contact us with any questions or concerns. Happy baking!
